@@ -1,14 +1,14 @@
 # Tutoriais
 Tutoriais diversos
 
-# Configurações para Cloudflare (plano free)
-* ## Remover admin bar:
+## Configurações para Cloudflare (plano free)
+* **Remover admin bar:**
 
 Adicionar isso no functions.php
 
 ```add_filter(‘show_admin_bar’, ‘__return_false’);```
 
-* ## Page rules:
+* **Page rules:**
 
 1.	\*__SEU_SITE__.com.br/wp-login\*
 
